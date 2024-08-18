@@ -8,7 +8,7 @@
 [![GitHub James](https://img.shields.io/github/followers/JamesTCarpenter?label=follow&style=social)](https://github.com/JamesTCarpenter)
 
 
-### <img src="https://media.giphy.com/media/LMDlWfc6Jdlm89iQZv/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const james = {
