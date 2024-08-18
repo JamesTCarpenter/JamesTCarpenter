@@ -16,10 +16,10 @@ const james = {
   tools: [Wordpress, React, Node, jQuery, Vue.js,  p5.js],
   architecture: ["microservices", "event-driven", "design system pattern"],
   hobbies: {
-                        music: "Guitarist",
-                        fashion: "Clothes-designer",
-                        game_dev: "Pixel-game-enthusiast"
-                      },
+            music: "Guitarist",
+            fashion: "Clothes-designer",
+            game_dev: "Pixel-game-enthusiast"
+          },
 }
 ```
 
