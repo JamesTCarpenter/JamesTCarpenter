@@ -1,6 +1,6 @@
 <h2> Hi, I'm James <img src="https://media.giphy.com/media/321BFkuBRv5iZ1oZ0s/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/JXMTJYvGsZ4WnLmKBx/giphy.gif" width="230">
-<p><em>First Class Hons in BSc in Computer Science at <a href="https://www.gold.ac.uk/" target="_blank">Goldsmiths University</a><img src="https://media.giphy.com/media/xlCMfgDZjnA589CzCB/giphy.gif" width="30"></br> Front End Developer at <a href="https://design-culture.co.uk/" target="_blank">Design Culture</a><img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="30"> 
+<p><em>First Class Hons in BSc in Computer Science at <a href="https://www.gold.ac.uk/" target="_blank">Goldsmiths University</a><img src="https://media.giphy.com/media/xlCMfgDZjnA589CzCB/giphy.gif" width="30"></br> Front End Developer at <a href="https://gameplanconsulting.co.uk/" target="_blank">Gameplan Consulting</a><img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="30"> 
 </em></p>
 
 
