@@ -1,4 +1,4 @@
-<h2> Hi, I'm James <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHF0OG1jYWVubjFkOTkzZm0ydDEyYWF2OHppZXFkMWNpZmJtNnE3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PPEBblqDVQQle5WAis/giphy.gif" width="50"></h2>
+<h2> Hi, I'm James <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd25ibGtjOG00dzFnbjFoc3psODN2dzNsbjZtZzg0OG9mb2R2d213OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0nxtD8zjBbNEWgiD2D/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/JXMTJYvGsZ4WnLmKBx/giphy.gif" width="230">
 <p><em>First Class Hons in BSc in Computer Science at <a href="https://www.gold.ac.uk/" target="_blank">Goldsmiths University</a><img src="https://media.giphy.com/media/xlCMfgDZjnA589CzCB/giphy.gif" width="30"></br> Front End Developer at <a href="https://gameplanconsulting.co.uk/" target="_blank">Gameplan Consulting</a><img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="30"> 
 </em></p>
