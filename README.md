@@ -17,8 +17,8 @@ const james = {
   architecture: ["microservices", "event-driven", "design system pattern"],
   hobbies: {
             music: "Guitarist",
-            fashion: "Clothes-designer",
-            game_dev: "Pixel-game-enthusiast"
+            reading: "Wannabe-fiction-author",
+            game_dev: "Unity-dev"
           },
 }
 ```
