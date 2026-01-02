@@ -13,7 +13,7 @@
 ```javascript
 const james = {
   code: [javaScript, PHP, HTML, SCSS, Tailwind, Python],
-  tools: [Wordpress, React, Node, jQuery, Vue.js,  p5.js],
+  tools: [React, Figma, Node, jQuery, Vue.js,  p5.js, Wordpress],
   architecture: ["microservices", "event-driven", "design system pattern"],
   hobbies: {
             music: "Guitarist",
